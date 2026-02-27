@@ -14,12 +14,12 @@ Upon opening the application, the user is greeted by a window with five buttons:
   -the same three operations are present, while performing the same aforementioned tasks.  
 
 ### Orders:
-  -this is where the user can see the information about orders placed in the shop: The ID of the order, customer, product and the quantity that was ordered.
-  -orders can be added here. For each one, only one customer and one item can be selected. The quantity can also be specified, and if there is not enough, of said item, an error will occur.
+  -this is where the user can see the information about orders placed in the shop: The ID of the order, customer, product and the quantity that was ordered.  
+  -orders can be added here. For each one, only one customer and one item can be selected. The quantity can also be specified, and if there is not enough, of said item, an error will occur.  
 
 ### Bill Logs:
-  -a more detailed view of the order. While the order has only the IDs and quantity, here, alongside those IDs, there are also the customer and product names, as well ass the total price and weight of said order.
-  -the bill is automatically created when an order has been created, and persists even if the customer or product have been deleted from the database
+  -a more detailed view of the order. While the order has only the IDs and quantity, here, alongside those IDs, there are also the customer and product names, as well ass the total price and weight of said order.  
+  -the bill is automatically created when an order has been created, and persists even if the customer or product have been deleted from the database.  
 
     
     
