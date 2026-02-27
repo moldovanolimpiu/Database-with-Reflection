@@ -6,12 +6,12 @@
 
 Upon opening the application, the user is greeted by a window with five buttons: Clients, Products, Orders, Bills and Exit.
 ### Clients:
-  -opens a tab where each client's information is visible: ID, name, email, address and age
-  -the operations that can be performed are: adding a client (beware, the client must be over 18 years old), editing a client's info and deleting a client altogether.
+  -opens a tab where each client's information is visible: ID, name, email, address and age  
+  -the operations that can be performed are: adding a client (beware, the client must be over 18 years old), editing a client's info and deleting a client altogether.  
   
 ### Product:
-  -opens a tab where the user can see all the shop's stock. Information includes the ID of a product, the name, its quantity, the price per unit and the weight per unit.
-  -the same three operations are present, while performing the same aforementioned tasks.
+  -opens a tab where the user can see all the shop's stock. Information includes the ID of a product, the name, its quantity, the price per unit and the weight per unit.  
+  -the same three operations are present, while performing the same aforementioned tasks.  
 
 ### Orders:
   -this is where the user can see the information about orders placed in the shop: The ID of the order, customer, product and the quantity that was ordered.
